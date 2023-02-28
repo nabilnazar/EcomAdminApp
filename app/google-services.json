@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693802564120",
+    "firebase_url": "https://ecommerceupi-default-rtdb.firebaseio.com",
+    "project_id": "ecommerceupi",
+    "storage_bucket": "ecommerceupi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693802564120:android:d718138f81f5ef5901616d",
+        "android_client_info": {
+          "package_name": "com.meghamlabs.ecomadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693802564120-97mi6f89hc7i9nq1krfn51drvng2vn3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPHNr56XVwRwHHJbsTi7qksto3zmug20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693802564120-97mi6f89hc7i9nq1krfn51drvng2vn3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
